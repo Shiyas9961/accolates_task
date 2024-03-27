@@ -117,7 +117,7 @@ header .show-menu{
 /* HOME - BANNER */
 
 .banner-sec{
-  background-image: url('Banner-Image.webp');
+  background-image: url("/public/Banner-Image.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -198,7 +198,7 @@ header .show-menu{
 
 /* HOME - ABOUT SEC */
 .about-sec{
-  background-image: url('About-1.webp');
+  background-image: url('/public/About-1.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -213,7 +213,7 @@ header .show-menu{
 
 /* HOME - FOURTH SEC */
 .forth-sec{
-  background-image: url('Layer-4-copy.webp');
+  background-image: url('/public/Layer-4-copy.webp');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -411,7 +411,7 @@ header .show-menu{
   margin: 10px ;
 }
 .footer-first{
-  background-image: url('Acco-Contact-Banner.webp');
+  background-image: url('/public/Acco-Contact-Banner.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
